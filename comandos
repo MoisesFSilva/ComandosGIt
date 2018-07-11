@@ -1,1 +1,7 @@
 1º	git init -> Inicializa o repositorio dentro do dir
+2º	git add [.] -> Adiciona os arquivos novos e modificados para o próximo commit
+3º	git commit [-m "mensagem"] -> Registra o commit com todos os arquivos que usou "git add"
+4º	git status -> Vizualiza o status do Repo Git
+5º	git log -> Show last commit made
+6º	git push -> Vai mandar todos os commit enviados para o repo de origem(GitHub)
+

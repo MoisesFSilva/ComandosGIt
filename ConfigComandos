@@ -1,0 +1,10 @@
+#Configuração do Git
+
+#Setar usuário
+git config --global user.name "Fulano de Tal"
+#Setar e-mail
+git config --global user.email "exemple@exemple.com"
+#Setar Editor
+git config --global core.editor nano
+#Listar configuração
+git config --list
