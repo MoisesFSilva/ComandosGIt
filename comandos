@@ -5,3 +5,4 @@
 5º	git log -> Show last commit made
 6º	git push -> Vai mandar todos os commit enviados para o repo de origem(GitHub)
 7º	git clone -> Vai clonar repo do github
+8º	git pull -> Vai enviar uma versão para o repo para download
