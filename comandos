@@ -6,3 +6,11 @@
 6º	git push -> Vai mandar todos os commit enviados para o repo de origem(GitHub)
 7º	git clone -> Vai clonar repo do github
 8º	git pull -> Vai enviar uma versão para o repo para download
+9º	git checkout [commit] -> Altera o repositorio para o estado daquele commit
+10º	git checkout master -> Volta o repo no último commit
+11º	git checkout -- [path_file] -> Ira desfazer todas as alterações que não estejam no Stage desde o ultimo commit
+12º	git checkout HEAD -- [path_file] -> Desfazer as alterações desde o último commit incluindo o Stage
+13º
+14º
+15º
+16º 
