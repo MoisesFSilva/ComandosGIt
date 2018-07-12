@@ -4,4 +4,4 @@
 4º	git status -> Vizualiza o status do Repo Git
 5º	git log -> Show last commit made
 6º	git push -> Vai mandar todos os commit enviados para o repo de origem(GitHub)
-
+7º	git clone -> Vai clonar repo do github
