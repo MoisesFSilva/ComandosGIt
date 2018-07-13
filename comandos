@@ -10,7 +10,7 @@
 10º	git checkout master -> Volta o repo no último commit
 11º	git checkout -- [path_file] -> Ira desfazer todas as alterações que não estejam no Stage desde o ultimo commit
 12º	git checkout HEAD -- [path_file] -> Desfazer as alterações desde o último commit incluindo o Stage
-13º
+13º	git branch / [NameBrench][-d brench][checkout brench] -> Cria, apaga e muda a brench
 14º
 15º
 16º 
