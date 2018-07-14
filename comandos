@@ -10,8 +10,11 @@
 10º	git checkout master -> Volta o repo no último commit
 11º	git checkout -- [path_file] -> Ira desfazer todas as alterações que não estejam no Stage desde o ultimo commit
 12º	git checkout HEAD -- [path_file] -> Desfazer as alterações desde o último commit incluindo o Stage
-13º	git diff [-cached] ou [HEAD] -> Exibe todas as diferenças entre copia e o indice/indice sicronizado e o ultimo commit/copia local e o ultimo commit 
-13º	git branch / [NameBrench][-d brench][checkout brench] -> Cria, apaga e muda a brench
-14º	
-15º
-16º 
+13º	git diff [-cached] ou [HEAD] -> Exibe todas as diferenças entre copia e o indice/indice sicronizado e o ultimo commit/copia local e o ultimo commit
+13º	git diff: Exibe todas as diferenças entre sua cópia local e o índice sincronizado;
+	git diff –cached: Exibe todas as diferenças entre o índice sincronizado e o último commit;
+	git diff HEAD: Exibe todas as diferenças entre sua cópia local e o último commit
+14º	git branch / [NameBrench][-d brench][checkout brench] -> Cria, apaga e muda a brench
+15º	git rebase [NomeBranch] -> De forma analoga ao branch, porém mantendo uma linha em sua uniões diferente do branch que mantem um "raiz"	
+16º
+17º 
